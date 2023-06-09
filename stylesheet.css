@@ -207,14 +207,16 @@ footer{
     margin-left: 45vw;
     border: none;
     background-color: black;
-}
-
-.backUP a{
     text-transform: uppercase;
     text-decoration: none;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: white;
 }
+/*
+.backUP a{
+   
+}
+*/
 
 .backUP a:hover{
     color: white;
